@@ -23,9 +23,9 @@ The application supports complete CRUD operations, automatic database creation, 
 
 # 🎥 Project Demonstration
 
-> A complete walkthrough of the project is available below.
+A complete walkthrough of the application can be viewed here:
 
-📹 **Location:** `assets/demo.mp4`
+▶️ **[Watch / Download the Demo Video](assets/demo.mp4)**
 
 
 ---
