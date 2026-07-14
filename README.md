@@ -48,7 +48,7 @@ A complete walkthrough of the application can be viewed here:
 
 ## Adding a Task
 
-![](screenshots/add_task/added_task_complete_ass.png)
+![](screenshots/add_task/added_task_complete_assignment.png)
 
 ---
 
