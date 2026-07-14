@@ -60,7 +60,7 @@ A complete walkthrough of the application can be viewed here:
 
 ## Removing a Task
 
-![](screenshots/remove_task/removed_task_complete_ass.png)
+| ![](screenshots/remove_task/removing_task_but_mind_changed.png) | ![](screenshots/remove_task/removed_task_complete_assignment.png) |
 
 ---
 
