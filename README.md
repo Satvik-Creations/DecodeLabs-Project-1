@@ -54,7 +54,7 @@ A complete walkthrough of the application can be viewed here:
 
 ## Viewing Tasks
 
-![](screenshots/view_task/see_to_do_list.png)
+![](screenshots/view_tasks/see_to_do_list.png)
 
 ---
 
