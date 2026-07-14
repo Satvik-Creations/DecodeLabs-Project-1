@@ -27,7 +27,6 @@ The application supports complete CRUD operations, automatic database creation, 
 
 📹 **Location:** `assets/demo.mp4`
 
-*(GitHub will automatically display the video after upload.)*
 
 ---
 
