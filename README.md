@@ -13,9 +13,11 @@
 
 ## 📌 About The Project
 
-This project was developed as a part of the **DecodeLabs Industrial Training Program (Batch 2026)**.
+This project was developed as a part of the **DecodeLabs Virtual Internship (Batch 2026)**.
 
-The objective of this project was to build a command-line **To-Do List Application** using Python. Instead of stopping at the basic project requirements, I decided to extend it further by integrating **MySQL** so that tasks remain permanently stored even after the application is closed.
+My Role : Jr. Python Programming Intern @ DecodeLabs
+
+The objective of this project was to build a command-line **To-Do List Application** using Python. During the training, it was emphasized that data stored in RAM is **volatile** and is lost once the application terminates. To overcome this limitation, I integrated **MySQL** for persistent storage, ensuring that tasks remain securely stored and are available every time the application is launched.
 
 The application supports complete CRUD operations, automatic database creation, persistent storage, task management, and a clean command-line interface.
 
@@ -243,9 +245,9 @@ database/sql_commands_used.sql
 
 # 📖 Internship Information
 
-This project was completed during my Industrial Training at **DecodeLabs** as **Project 1 (Python Programming)**.
+This project was completed as **Project 1 (Python Programming)** during my training at **DecodeLabs**.
 
-Although the original task focused on implementing a To-Do List using Python Lists, I extended the project by integrating **MySQL** to provide persistent storage and demonstrate practical database connectivity.
+The initial objective I thought was to create a command-line To-Do List application using Python. Since data stored in RAM is **volatile** as they mentioned in their PDF [docs/DecodeLabs_Project_1_Guidelines.pdf], and gets erased when the program exits, I integrated **MySQL** to provide persistent storage. This ensures that all tasks remain safely stored in the database and are available every time the application is launched.
 
 ---
 
@@ -255,7 +257,7 @@ Although the original task focused on implementing a To-Do List using Python Lis
 
 B.Tech CSE (AI & ML)
 
-Industrial Training Intern @ DecodeLabs
+Jr. Python Programming Intern @ DecodeLabs
 
 GitHub: https://github.com/Satvik-Creations
 
