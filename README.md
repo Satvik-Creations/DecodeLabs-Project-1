@@ -32,7 +32,7 @@ A quick preview of the application is shown below.
 </p>
 
 <p align="center">
-  <b>👆 Quick Preview</b>
+  <b>👆 Quick (1 min 30 sec) GIF Preview</b>
 </p>
 
 ---
