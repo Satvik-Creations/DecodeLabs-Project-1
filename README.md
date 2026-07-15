@@ -25,12 +25,18 @@ The application supports complete CRUD operations, automatic database creation, 
 
 # 🎥 Project Demonstration
 
-A complete walkthrough of the application can be viewed here:
+A quick preview of the application is shown below.
 
-▶️ **[Watch / Download the Demo Video](assets/demo.mp4)**
+<p align="center">
+  <img src="assets/demo.gif" alt="Project Demo" width="900">
+</p>
 
+<p align="center">
+  <b>👆 Quick Preview</b>
+</p>
 
 ---
+
 
 # 📷 Project Screenshots
 
